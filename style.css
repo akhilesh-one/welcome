@@ -1,0 +1,11 @@
+body {
+  background: #f7f7f7;
+  font-family: 'Segoe UI', sans-serif;
+  text-align: center;
+  padding: 100px 20px;
+}
+
+.hero-text {
+  font-size: 3rem;
+  color: #333;
+}
