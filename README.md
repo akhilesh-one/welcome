@@ -8,7 +8,7 @@
 - GSAP 3
 
 ## 🌐 Live Preview
-[Click here to view live](https://itz-akhilesh.github.io/gsap-hero-animation/)
+[Click here to view live](https://akhilesh-one.github.io/welcome/)
 
 ## 📸 Preview
 ![screenshot](assets/screenshot.jpg) <!-- optional if you add an image -->
